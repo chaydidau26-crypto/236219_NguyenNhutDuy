@@ -1,0 +1,23 @@
+# Thông tin bí mật
+.env
+.env.*
+!.env.example
+
+# Thư viện Node.js
+node_modules/
+
+# File build
+dist/
+build/
+
+# Log
+npm-debug.log*
+yarn-debug.log*
+*.log
+
+# Hệ điều hành
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
